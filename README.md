@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ranjitharaju [YASHASWINI T S]
-- 👀 I’m interested in life skills, leadership, communnication, marketing, team works, entrepreneurship.
+- 👀 I’m interested in life skills, leadership, communication, Data Analyst enthuast, Data Science, marketing, team works, entrepreneurship.
 - 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on Marketing field.
+- 💞️ I’m looking to collaborate on any field which I have specified above.
 - 📫 How to reach me through social media.
 
 <!---
