@@ -1,7 +1,7 @@
 - 👋 Hi, I am Yashaswini T S
 - 👀 I’m interested in life skills, leadership, communication, Data Analyst enthuast, Data Science, Software Testing, marketing, team works, entrepreneurship.
-- 🌱 I’m currently worked at IQVIA Company as a Intern - Engineer (Software Testing Under Development)
-- 💞️ I’m looking to collaborate on any field which I have specified above.
+- 🌱 I currently worked at IQVIA Company as a Intern - Engineer (Software Testing Under Development)
+- 💞️ I’m looking to work/collaborate on any field which I have specified above.
 - 📫 Linkedin - https://www.linkedin.com/in/yashaswinits/
 
 <!---
