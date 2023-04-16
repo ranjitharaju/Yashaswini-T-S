@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ranjitharaju [YASHASWINI T S]
-- 👀 I’m interested in life skills, leadership, communication, Data Analyst enthuast, Data Science, marketing, team works, entrepreneurship.
-- 🌱 I’m currently learning JAVA
+- 👋 Hi, I am Yashaswini T S
+- 👀 I’m interested in life skills, leadership, communication, Data Analyst enthuast, Data Science, Software Testing, marketing, team works, entrepreneurship.
+- 🌱 I’m currently worked at IQVIA Company as a Intern - Engineer (Software Testing Under Development)
 - 💞️ I’m looking to collaborate on any field which I have specified above.
-- 📫 How to reach me through social media.
+- 📫 Linkedin - https://www.linkedin.com/in/yashaswinits/
 
 <!---
 ranjitharaju/ranjitharaju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
